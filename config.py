@@ -1,2 +1,0 @@
-ilksifre = "Esrarzaan"
-ikincisifre = "iyigeceler"
