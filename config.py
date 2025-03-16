@@ -1,0 +1,2 @@
+ilksifre = "Esrarzaan"
+ikincisifre = "iyigeceler"
